@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "novellmonica776",
+  "repo": "container-cyvpgu",
+  "name": "novellmonica776",
+  "email": "novellmonica776@hotmail.com",
+}
