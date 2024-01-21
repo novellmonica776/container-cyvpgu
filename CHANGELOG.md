@@ -1,3 +1,16 @@
+# v0.0.4 (Sun Jan 21 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update app.py ([@novellmonica776](https://github.com/novellmonica776))
+- Create rom ([@novellmonica776](https://github.com/novellmonica776))
+
+#### Authors: 1
+
+- [@novellmonica776](https://github.com/novellmonica776)
+
+---
+
 # v0.0.3 (Sun Jan 21 2024)
 
 #### ⚠️ Pushed to `main`
