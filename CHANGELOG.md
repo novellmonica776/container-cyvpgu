@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Jan 21 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update app.py ([@novellmonica776](https://github.com/novellmonica776))
+
+#### Authors: 1
+
+- [@novellmonica776](https://github.com/novellmonica776)
+
+---
+
 # v0.0.1 (Sun Jan 21 2024)
 
 :tada: This release contains work from a new contributor! :tada:
