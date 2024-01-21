@@ -1,3 +1,15 @@
+# v0.0.3 (Sun Jan 21 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Add files via upload ([@novellmonica776](https://github.com/novellmonica776))
+
+#### Authors: 1
+
+- [@novellmonica776](https://github.com/novellmonica776)
+
+---
+
 # v0.0.2 (Sun Jan 21 2024)
 
 #### ⚠️ Pushed to `main`
